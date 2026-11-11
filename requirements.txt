@@ -1,0 +1,45 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+seaborn
+ipykernel
+
+# Configuration
+python-box==6.0.2
+PyYAML
+types-PyYAML
+
+
+# Hyperparameter Optimization
+#optuna>=4.0
+
+# Model Explainability
+#shap>=0.46
+
+# Utilities
+tqdm
+ensure==1.0.2
+joblib
+
+# Experiment tracking
+mlflow
+
+# Data versioning
+dvc
+#dvc[s3]
+
+# AWS
+boto3
+
+# API
+fastapi
+uvicorn
+
+# DagsHub
+dagshub
+
+# Local package
+#-e .
