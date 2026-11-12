@@ -42,4 +42,4 @@ uvicorn
 dagshub
 
 # Local package
-#-e .
+-e .
